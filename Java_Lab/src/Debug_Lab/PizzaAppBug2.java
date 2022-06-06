@@ -1,4 +1,4 @@
-package Debug_Lab;
+package Java_Lab.src.Debug_Lab;
 
 import java.util.Scanner;
 /*

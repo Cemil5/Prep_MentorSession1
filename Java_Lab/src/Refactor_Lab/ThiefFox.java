@@ -1,12 +1,12 @@
-package Refactor_Lab;
+package Java_Lab.src.Refactor_Lab;
 
-/**
- * We have a fox group consists of 4 foxes. Unfortunately one of them stole an egg from chicken barn.
- * Luckily guard rooster have some info to identify the guilty fox.
- * Sheriff Dog got the info from the rooster. Sheriff Dog announced that;
- * thief fox had a black coat, a torch and 3 bags.
- * Find the suspect foxes, if a fox is cleared of charges write that also
- */
+/*
+ We have a fox group consists of 4 foxes. Unfortunately one of them stole an egg from chicken barn.
+ Luckily guard rooster have some info to identify the guilty fox.
+ Sheriff Dog got the info from the rooster. Sheriff Dog announced that;
+ thief fox had a black coat, a torch and 3 bags.
+ Find the suspect foxes, if a fox is cleared of charges write that also
+*/
 public class ThiefFox {
 
     public static void main(String[] args) {

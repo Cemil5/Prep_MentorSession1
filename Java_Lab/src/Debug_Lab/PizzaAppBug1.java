@@ -1,4 +1,4 @@
-package Debug_Lab;
+package Java_Lab.src.Debug_Lab;
 
 import java.util.Scanner;
 /*
@@ -80,9 +80,8 @@ public class PizzaAppBug1 {
 
         //Check if domain is valid  //gmail and hotmail domain - > mike@gmail.com
         String domain = givenEmail.substring(givenEmail.indexOf('@') + 1, givenEmail.indexOf('.'));        //gmail
-        boolean checkDomain = domain.equalsIgnoreCase("gmail") || domain.equalsIgnoreCase("hotmail");
 
-        return checkDomain;
+        return domain.equalsIgnoreCase("gmail") || domain.equalsIgnoreCase("hotmail");
 
     }
 
